@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832558520428",
+    "project_id": "shared-preferences-a3dfa",
+    "storage_bucket": "shared-preferences-a3dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832558520428:android:26472d7ad65fa72a36a049",
+        "android_client_info": {
+          "package_name": "com.example.sharedpreferences"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832558520428-8ig5u1epo2suvqpa8g3d1gm44ecqc2v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ7g9Kp-OPzzTztAAco0KZu_mJTe1PI2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832558520428-8ig5u1epo2suvqpa8g3d1gm44ecqc2v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
